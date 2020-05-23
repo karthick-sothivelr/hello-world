@@ -1,2 +1,4 @@
 # hello-world
-My first public repository
+Hello World,
+
+May all beings live blissfully.
